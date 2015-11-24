@@ -1,0 +1,3 @@
+ect/apt#nano apt.conf 
+Acquire::http::Proxy
+
